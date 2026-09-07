@@ -5,7 +5,7 @@ about:
   head: c984bf8
   archived: false
   latestVersion: "v0.6.1"
-  collectedAt: 2026-09-07T05:11:40Z
+  collectedAt: 2026-09-07T19:23:23Z
 timeline:
   created: 2022-01-29
   lastCommit: 2025-12-05
@@ -79,7 +79,7 @@ total:
   commit: 40
 ---
 path: /home/runner/.x-repo/github.com/orlangure/gocovsh
-collectedAt: 2026-09-07T05:11:41Z
+collectedAt: 2026-09-07T19:23:23Z
 loc:
   Go:
     code: 1741
@@ -105,7 +105,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T05:11:42+00:00
+  collectedAt: 2026-09-07T19:23:24+00:00
   platform:
     darwin/arm64:
       name:  gocovsh_0.6.1_darwin_arm64.tar.gz
