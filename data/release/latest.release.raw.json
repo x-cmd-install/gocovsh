@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 1654,
       "digest": null,
-      "download_count": 1831,
+      "download_count": 1832,
       "created_at": "2022-11-17T18:25:03Z",
       "updated_at": "2022-11-17T18:25:03Z",
       "browser_download_url": "https://github.com/orlangure/gocovsh/releases/download/v0.6.1/checksums.txt"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 1732,
       "digest": null,
-      "download_count": 60,
+      "download_count": 61,
       "created_at": "2022-11-17T18:25:03Z",
       "updated_at": "2022-11-17T18:25:03Z",
       "browser_download_url": "https://github.com/orlangure/gocovsh/releases/download/v0.6.1/checksums.txt.pem"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 96,
       "digest": null,
-      "download_count": 56,
+      "download_count": 57,
       "created_at": "2022-11-17T18:25:03Z",
       "updated_at": "2022-11-17T18:25:03Z",
       "browser_download_url": "https://github.com/orlangure/gocovsh/releases/download/v0.6.1/checksums.txt.sig"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 1146764,
       "digest": null,
-      "download_count": 4354,
+      "download_count": 4356,
       "created_at": "2022-11-17T18:24:59Z",
       "updated_at": "2022-11-17T18:24:59Z",
       "browser_download_url": "https://github.com/orlangure/gocovsh/releases/download/v0.6.1/gocovsh_0.6.1_linux_amd64.tar.gz"
